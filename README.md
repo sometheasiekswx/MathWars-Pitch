@@ -1,6 +1,6 @@
 ## Welcome to the MathWars Pitch Website
 
-Visit the MathWars Pitch [https://sometheasiekswx.github.io/MathWars-Pitch/SIDSIESD1901-A1-Project-Plan.html](https://sometheasiekswx.github.io/MathWars-Pitch/SIDSIESD1901-A1-Project-Plan.html) to check out my the my first website that was for my SIT120 (Responsive Web Application) first assingment. 
+Visit the [MathWars Pitch](https://sometheasiekswx.github.io/MathWars-Pitch/SIDSIESD1901-A1-Project-Plan.html) to check out my the my first website that was for my SIT120 (Responsive Web Application) first assingment. 
 
 I tried to make this website accessible to the hearing impaired, which was not a requirement of my assingment, but something I thought was cool to have and get used making.
 
